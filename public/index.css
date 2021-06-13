@@ -1,0 +1,18 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+body, #root {
+    height: 100vh;
+    margin: 0;
+}
+a:hover {
+    color: #ff8000;
+}
+a {
+    text-decoration: none;
+}
+body, input, select, textarea {
+    font-size: 1.6rem;
+    font-family: M PLUS Rounded 1c, Helvetica, Arial, sans-serif;
+}
